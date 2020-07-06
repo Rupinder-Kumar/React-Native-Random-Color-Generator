@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 39296,
+  "expoServerNgrokUrl": "https://84-tbk.anonymous.react-native-random-color-generator.exp.direct",
+  "packagerNgrokUrl": "https://packager.84-tbk.anonymous.react-native-random-color-generator.exp.direct",
+  "ngrokPid": 26296,
   "webpackServerPort": null
 }

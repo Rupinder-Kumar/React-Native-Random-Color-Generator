@@ -8,9 +8,9 @@ const navigator = createStackNavigator(
     Square: SquareScreen
   },
   {
-    initialRouteName: "Home",
+    initialRouteName: "Square",
     defaultNavigationOptions: {
-      title: "App"
+      title: "Random Color Generator"
     }
   }
 );
