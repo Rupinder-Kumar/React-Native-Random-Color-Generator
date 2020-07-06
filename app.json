@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-starter",
-    "slug": "rn-starter",
+    "name": "React Native Random Color Generator",
+    "slug": "React-Native-Random-Color-Generator",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
